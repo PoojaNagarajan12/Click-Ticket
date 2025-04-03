@@ -1,0 +1,1 @@
+Engineered a full-stack web application utilizing the MERN stack to implement a robust platform for event ticket discovery and purchasing. The application incorporates real-time seat selection capabilities and a streamlined user interface, optimizing the ticket acquisition process and enhancing overall user engagement.
